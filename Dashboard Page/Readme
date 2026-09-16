@@ -1,0 +1,25 @@
+# Dashboard Pages
+
+This folder contains screenshots of the Power BI dashboard pages developed for the AWARE AI Digital Wellbeing Analysis Platform.
+
+## Dashboard Pages
+
+### 1. Introduction
+
+Provides an overview of the project, its purpose, and the analytical focus.
+
+### 2. Executive Overview
+
+Provides a high-level view of digital usage, screen time, application usage, distraction patterns, keywords, and content categories.
+
+### 3. Distraction Intelligence
+
+Analyzes distraction patterns across time of day, applications, content categories, keywords, and burnout-risk groups.
+
+### 4. Wellbeing & User Insights
+
+Analyzes screen time, user groups, wellbeing indicators, sleep patterns, and wellbeing distribution.
+
+## Dashboard Tool
+
+The dashboard was developed using Microsoft Power BI.
