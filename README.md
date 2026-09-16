@@ -235,6 +235,39 @@ The dashboard provides a distribution of users across wellbeing categories and c
 
 ---
 
+---
+
+## 📁 Repository Structure
+
+```text
+AWARE-AI-Digital-Wellbeing-Analysis/
+│
+├── README.md
+├── .gitignore
+│
+├── data/
+│   └── README.md
+│
+├── powerbi/
+│   ├── AWARE_AI_Digital_Wellbeing.pbix
+│   └── data_model.png
+│
+├── dashboard/
+│   ├── 01_introduction.png
+│   ├── 02_executive_overview.png
+│   ├── 03_distraction_intelligence.png
+│   └── 04_wellbeing_user_insights.png
+│
+├── documentation/
+│   ├── project_overview.md
+│   ├── data_dictionary.md
+│   ├── data_model.md
+│   └── insights.md
+│
+└── presentation/
+    └── AWARE_AI_Project_Presentation.pptx
+```text
+
 ## 📸 Dashboard Preview
 
 ### Introduction
@@ -283,3 +316,5 @@ The dashboard provides a distribution of users across wellbeing categories and c
                        │
                        ▼
                      Insights
+
+```text
